@@ -5,18 +5,22 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.1",
-    "dotenv": "^10.0.0",
-    "express": "^4.17.1",
-    "mysql": "^2.18.1"
+    "bcrypt": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "mysql": "latest",
+    "ejs": "latest",
+    "aws-sdk": "latest"
   },
   "engines": {
-    "node": ">=10.0.0",
+    "node": "13.11.0",
     "npm": ">=6.0.0"
   }
+
+  
 }
