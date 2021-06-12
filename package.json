@@ -1,6 +1,6 @@
 {
   "name": "node_express_mysql_practice",
-  "version": "1.0.0",
+  "version": "1.2.25",
   "description": "",
   "main": "app.js",
   "scripts": {
